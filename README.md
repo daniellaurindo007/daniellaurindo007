@@ -58,13 +58,7 @@ I believe good code should be clean, efficient, and solve real problems. Every p
 
 # 📊 GitHub Stats
 
-<div>
-  <a href="https://github.com/daniellaurindo007">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniellaurindo007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellaurindo007&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</div>
-
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniellaurindo007&hide=contribs,prs)
 ---
 
 # 🔗 Connect With Me
