@@ -16,26 +16,32 @@ I believe good code should be clean, efficient, and solve real problems. Every p
 
 ## Frontend
 <p>
-  <img align="center" alt="HTML" height="40" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="React" height="40" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+<p align="left">
+  <img alt="HTML5"
+  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="CSS3"
+  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="JavaScript"
+  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img alt="React"
+  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</p>
+
 </p>
 
 ## Backend
 <p>
-  <img align="center" alt="Node.js" height="40" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Express" height="40" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
-  <img align="center" alt="MongoDB" height="40" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Prisma" height="40" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg">
+<p align="left">
+  <img alt="Node.js"
+  src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img alt="Express.js"
+  src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img alt="MongoDB"
+  src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img alt="Prisma"
+  src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+</p>
+
 </p>
 
 ---
