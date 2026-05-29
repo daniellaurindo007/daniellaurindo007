@@ -9,8 +9,8 @@
 
 
 <h2>Connect with me:</h2>
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/23b14992-d8e6-41cb-8610-594d06f27ead" />
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/39bfa9f9-2610-4775-82f5-50c1fa942bcb" />
+<a href:"https://www.instagram.com/daniel.laurindo._/"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/23b14992-d8e6-41cb-8610-594d06f27ead" /></a>
+<a href:"https://www.linkedin.com/in/daniellaurindossantos/"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/39bfa9f9-2610-4775-82f5-50c1fa942bcb" /></a>
  
 
 <br><br>
